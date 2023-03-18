@@ -1,2 +1,1 @@
-I am learning how web servers work
-I have started learning Node.js and have created my first ever http server
+Started my full stack web developer journey with node.js
